@@ -58,11 +58,10 @@
 
 ## 👥 研究团队
 
-| 属性 | Dr. Sharon Chen 陈妍秀 | Ruotong Fang 方若彤 | XXX | Tianying Cai 蔡天颖 |
+| 属性 | Dr. Sharon Chen 陈妍秀 | Ruotong Fang 方若彤 | Wenxi Chen | Tianying Cai 蔡天颖 |
 | :--- | :--- | :--- | :--- | :--- |
-| 照片 | ![Sharon Chen](图片URL) | ![Ruotong Fang](图片URL) | XXX | ![Tianying Cai](图片URL) |
-| 头衔 | Psychologist | AI + Psychology Expert | XXX | Criminal Justice Expert |
-| 个人履历 | PhD in Cognitive Science, Syracuse University, USA; Postdoc in Engineering Psychology, Chinese Academy of Sciences; Customer Success Lead, Lianxin Digital| M.Sc. in Psychological Sciences, University College London; B.A. in English Linguistics, Beihang University; Researcher, Lianxin Digital | XXX | M.A. in Criminology and Criminal Justice, University of Maryland, USA; B.A. in Investigation Science & Applied Psychology, China University of Political Science and Law; Former Lawyer in Practice |
+| 头衔 | Psychologist | AI + Psychology Expert | AI + Psychology Expert | Criminal Justice Expert |
+| 个人履历 | PhD in Cognitive Science, Syracuse University, USA; Postdoc in Engineering Psychology, Chinese Academy of Sciences; Customer Success Lead, Lianxin Digital| M.Sc. in Psychological Sciences, University College London; B.A. in English Linguistics, Beihang University; Researcher, Lianxin Digital |M.C. in Psychology, Beijing Normal University; AI Psychology R&D Lead and Psychological Algorithm Specialist focused on affective computing, large-model reasoning, and agent systems | M.A. in Criminology and Criminal Justice, University of Maryland, USA; B.A. in Investigation Science & Applied Psychology, China University of Political Science and Law; Former Lawyer in Practice |
 
 
 ---
