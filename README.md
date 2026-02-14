@@ -58,11 +58,10 @@
 
 ## 👥 研究团队
 
-| 属性 | Dr. Sharon Chen 陈妍秀 | Ruotong Fang 方若彤 | Wenxi Chen | Tianying Cai 蔡天颖 |
-| :--- | :--- | :--- | :--- | :--- |
-| 头衔 | Psychologist | AI + Psychology Expert | AI + Psychology Expert | Criminal Justice Expert |
-| 个人履历 | PhD in Cognitive Science, Syracuse University, USA; Postdoc in Engineering Psychology, Chinese Academy of Sciences; Customer Success Lead, Lianxin Digital| M.Sc. in Psychological Sciences, University College London; B.A. in English Linguistics, Beihang University; Researcher, Lianxin Digital |M.C. in Psychology, Beijing Normal University; AI Psychology R&D Lead and Psychological Algorithm Specialist focused on affective computing, large-model reasoning, and agent systems | M.A. in Criminology and Criminal Justice, University of Maryland, USA; B.A. in Investigation Science & Applied Psychology, China University of Political Science and Law; Former Lawyer in Practice |
-
+| 属性 | Xing Huang 黄杏 | Dr. Sharon Chen 陈妍秀 | Ruotong Fang 方若彤 | Wenxi Chen 陈闻茜 | Tianying Cai 蔡天颖 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 头衔 | Head of Insight X Lab | Psychologist | AI + Psychology Expert | AI + Psychology Expert | Criminal Justice Expert |
+| 个人履历 | Executive Dean, Insight Research Institute; MS in Basic Psychology (Emotional Cognition), SWU; Executive Dean, Insight Research Institute, Lianxin Digital; Architect of "Human-Centric World Model" for Mind-Reading AI; Lead Developer of Psybot and 3 National Industry Standards. | PhD in Cognitive Science, Syracuse University, USA; Postdoc in Engineering Psychology, Chinese Academy of Sciences; Customer Success Lead, Lianxin Digital | M.Sc. in Psychological Sciences, University College London; B.A. in English Linguistics, Beihang University; Researcher, Lianxin Digital | M.C. in Psychology, Beijing Normal University; AI Psychology R&D Lead and Psychological Algorithm Specialist focused on affective computing, large-model reasoning, and agent systems | M.A. in Criminology and Criminal Justice, University of Maryland, USA; B.A. in Investigation Science & Applied Psychology, China University of Political Science and Law; Former Lawyer in Practice |
 
 ---
 
